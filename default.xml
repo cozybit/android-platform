@@ -435,4 +435,5 @@
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" />
   <project path="kernel/backports" name="cozybit/backports-releases-xz" />
   <project path="kernel/backports/drivers/net/wireless/ath/wcn36xx" name="cozybit/wcn36xx-xz" />
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" />
 </manifest>
