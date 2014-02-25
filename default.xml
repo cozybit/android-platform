@@ -428,4 +428,11 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="platform/manifest" name="cozybit/android" />
   <project path="device/sony/yuga" name="cozybit/android_device_sony_yuga" />
+  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
+  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" />
+  <project path="device/sony/fusion3-common" name="cozybit/android_device_sony_fusion3-common" />
+  <project path="kernel/sony/apq8064" name="cozybit/android_kernel_sony_apq8064" />
+  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" />
+  <project path="kernel/backports" name="cozybit/backports-releases-xz" />
+  <project path="kernel/backports/drivers/net/wireless/ath/wcn36xx" name="cozybit/wcn36xx-xz" />
 </manifest>
