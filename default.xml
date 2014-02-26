@@ -436,4 +436,8 @@
   <project path="kernel/backports" name="cozybit/backports-releases-xz" />
   <project path="kernel/backports/drivers/net/wireless/ath/wcn36xx" name="cozybit/wcn36xx-xz" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" />
+  <project path="external/iw" name="cozybit/iw" />
+  <project path="external/iperf" name="ouya/iperf" revision="master" />
+  <project path="external/meshkit" name="cozybit/meshkit" revision="master" remote="private" />
+  <project path="tools/mesh" name="cozybit/meshable-cyanogenmod" revision="master" remote="private" />
 </manifest>
